@@ -1,4 +1,4 @@
-package com.example.lib;
+package com.example.lib.oldlesson;
 
 import java.util.Arrays;
 import java.util.Random;
